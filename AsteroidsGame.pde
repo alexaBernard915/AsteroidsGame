@@ -1,6 +1,6 @@
-//your variable declarations here
-Spaceship bob; 
+//your variable declarations here 
 ArrayList<Asteroid> rocks;
+Spaceship bob;
 Star [] army = new Star[200];
 public void setup() 
 {
