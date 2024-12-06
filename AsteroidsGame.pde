@@ -1,5 +1,5 @@
 //your variable declarations here 
-ArrayList<Asteroid> rocks;
+ArrayList <Asteroid> rocks;
 Spaceship bob;
 Star [] army = new Star[200];
 public void setup() 
@@ -10,7 +10,7 @@ for(int i = 0; i<army.length; i++){
   army[i] = new Star();
   army[i].show();
 }
-rocks = new ArrayList<Asteroid>();
+rocks = new ArrayList <Asteroid>();
 for(int i = 0; i<10; i++){
   Asteroid sue = new Asteroid(); 
   rocks.add(sue);
