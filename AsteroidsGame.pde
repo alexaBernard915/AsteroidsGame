@@ -1,7 +1,7 @@
 //your variable declarations here 
-ArrayList <Asteroid> rocks;
 Spaceship bob;
-ArrayList<Bullet> shots;
+ArrayList <Asteroid> rocks;
+ArrayList <Bullet> shots;
 Star [] army = new Star[200];
 public void setup() 
 {
